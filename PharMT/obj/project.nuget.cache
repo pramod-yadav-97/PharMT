@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qim1v5RJxr98lbHeLNwdqnqPfcj/uJVHc+r/xyHafL9kXav7/OWxpJzuHOPcXXXXYViqScaeU4OftrgFUQjSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pramod\\Desktop\\VS Project\\PharMT\\PharMT\\PharMT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pramod\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
